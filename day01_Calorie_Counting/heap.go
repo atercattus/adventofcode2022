@@ -1,4 +1,4 @@
-package day01
+package solver
 
 import "container/heap"
 
